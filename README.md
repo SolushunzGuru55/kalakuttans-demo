@@ -1,2 +1,0 @@
-# kalakuttans-demo
-Go rookie
